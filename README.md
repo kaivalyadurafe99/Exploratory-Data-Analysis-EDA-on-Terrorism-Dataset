@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis-EDA-on-Terrorism-Dataset
-LGMVIP(Task-1)-Exploratory Data Analysis (EDA) on Terrorism Dataset
+LGMVIP(Task-1)
 
+Performed Exploratory Data Analysis (EDA) on Terrorism Dataset using Numpy, Pandas, Matplotlib, Seaborn libraries in Python.
+ 
 ## Library Used :
 
 Numpy, Pandas, Matplotlib, Seaborn
